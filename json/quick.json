@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "百度一下，你就知道",
+    "url": "https://www.baidu.com/",
+    "img": "https://www.baidu.com/favicon.ico"
+  },
+  {
+    "id": 2,
+    "title": "百度一下，你就知道",
+    "url": "https://www.baidu.com/",
+    "img": "https://www.baidu.com/favicon.ico"
+  },
+  {
+    "id": 3,
+    "title": "百度一下，你就知道",
+    "url": "https://www.baidu.com/",
+    "img": "https://www.baidu.com/favicon.ico"
+  },
+  {
+    "id": 4,
+    "title": "百度一下，你就知道",
+    "url": "https://www.baidu.com/",
+    "img": "https://www.baidu.com/favicon.ico"
+  },
+  {
+    "id": 5,
+    "title": "百度一下，你就知道",
+    "url": "https://www.baidu.com/",
+    "img": "https://www.baidu.com/favicon.ico"
+  },
+  {
+    "id": 6,
+    "title": "百度一下，你就知道",
+    "url": "https://www.baidu.com/",
+    "img": "https://www.baidu.com/favicon.ico"
+  },
+  {
+    "id": 7,
+    "title": "登录",
+    "url": "https://www.jianshu.com/sign_in",
+    "img": "https://www.jianshu.com/favicon.ico"
+  },
+  {
+    "id": 8,
+    "title": "next.js",
+    "url": "https://nextjs.frontendx.cn/",
+    "img": "https://nextjs.frontendx.cn/static/favicon/favicon.ico"
+  },
+  {
+    "id": 9,
+    "title": "码云",
+    "url": "https://gitee.com",
+    "img": "https://gitee.com/assets/favicon.ico"
+  },
+  {
+    "id": 10,
+    "title": "添加快捷方式",
+    "url": "",
+    "img": ""
+  }
+]
